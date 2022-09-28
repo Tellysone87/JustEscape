@@ -7,13 +7,13 @@ This is my first project using Unity and C#. Just escape is a 2d top down game. 
 
 # Things I learned
 
-*Learned Unity and coding with c#
-*creating object and calling them via variables
-*AI pathfinding and pipeline lighting
-*collision and health calculating
-*Character camera follow 
-*Player inventory
-*use of interactive buttons for main menu controls
+* Learned Unity and coding with c#
+* creating object and calling them via variables
+* AI pathfinding and pipeline lighting
+* collision and health calculating
+* Character camera follow 
+* Player inventory
+* use of interactive buttons for main menu controls
 
 
 
