@@ -4,6 +4,7 @@
 
 This is my first project using Unity and C#. Just escape is a 2d top down game. The player must help Lilly to escape the alien ship. The player must find items and a means to escape. 
 
+<a href="https://itch.io/embed-upload/8555001?color=000000">Play on Itch.io</a>
 $~~~~$
 <h2>Player inventory</h2>
 
